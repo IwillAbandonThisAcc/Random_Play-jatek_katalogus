@@ -42,7 +42,7 @@ INSERT INTO `games` (`id`, `g_name`, `genre`) VALUES
 (2, 'Team Fortress 2', 'FPS'),
 (3, 'Need For Speed Underground', 'Racing'),
 (4, 'osu!', 'Ritmus'),
-(5, 'The Forest', 'Túlélő'),
+(5, 'The Forest', 'Survival'),
 (6, 'Fortnite', 'Battle Royal'),
 (7, 'Final Fantasy XIV', 'RPG'),
 (8, 'Civilization V', 'Strategy'),
