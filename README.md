@@ -9,13 +9,13 @@ Főbb funkciók: Játékok közötti böngészésben a felhasználó beállítha
     Horror
     FPS
     RPG
-    Stratégia
-    Ritmus
-    Túlélő
+    Stratégia - Strategy
+    Ritmus - Rythm
+    Túlélő - Survival
     Battle Royal
     Sport
-    Verseny
-    Szimuláció
+    Verseny - Racing
+    Szimuláció - Simulation
 
 Minden játékhoz részletes információk érhetők el, mint a cím, műfaj, és leírás.
 
